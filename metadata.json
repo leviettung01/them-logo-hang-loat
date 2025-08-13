@@ -1,0 +1,5 @@
+{
+  "name": "Trình Chỉnh Sửa Ảnh Hàng Loạt",
+  "description": "Một ứng dụng web để thêm logo và văn bản vào hình ảnh một cách nhanh chóng và chuyên nghiệp. Hỗ trợ xử lý hàng loạt, tùy chỉnh vị trí, kích thước, và các hiệu ứng thông minh như xóa nền trắng hoặc phông xanh cho logo.",
+  "requestFramePermissions": []
+}
